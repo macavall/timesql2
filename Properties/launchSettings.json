@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "timesql2": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7218",
+      "environmentVariables": {
+        "test": "test"
+      }
+    }
+  }
+}
